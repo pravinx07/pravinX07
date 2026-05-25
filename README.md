@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Pravin Shegamwar  
 **A passionate Full Stack Developer**
 
-📬 **Email Me:** ✉️ **shegamwarp@gmail.com** for collaboration, freelance work, or just to say hi!
+📬 **Email Me:** ✉️ **shegamwarpravin07@gmail.com** for collaboration, freelance work, or just to say hi!
 
 ---
 
@@ -10,7 +10,7 @@
 - 👯 **I’m looking to collaborate on:** Open-source MERN stack projects and AI-integrated web apps  
 - 🤔 **I’m looking for help with:** Performance optimization in large-scale MERN applications  
 - 💬 **Ask me about:** React, JavaScript, MongoDB, Express.js, Node.js, Tailwind CSS  
-- 📫 **How to reach me:** **shegamwarp@gmail.com**  
+- 📫 **How to reach me:** **shegamwarpravin07@gmail.com**  
 - 😄 **Pronouns:** He
 - ⚡ **Fun fact:** I drink logic with my morning chai ☕ and debug with music 🎧
 
