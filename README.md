@@ -48,7 +48,8 @@ Let’s build something awesome together!
 ![](https://github-readme-stats.vercel.app/api?username=pravinX07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pravinX07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinX07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pravinx07&theme=dark)](https://git.io/streak-stats)
 
 
 ### ✍️ Random Dev Quote
